@@ -1,0 +1,60 @@
+body{
+
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-stretch: semi-expanded
+   
+}
+
+h3{
+    font-family: Felix Titling;
+    color:#008000;
+}
+
+.hori{
+
+    background-color: #4f772d;
+    height:2px; 
+    width:1050px;
+}
+
+
+
+
+table{
+    width: 70%;
+    vertical-align: top;
+}
+
+
+.objective{
+
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+
+}
+
+.project{
+
+    width: 600px;
+    align-content:start;
+
+}
+
+.experience{
+
+    width: 600px;
+    align-content:start;
+
+}
+
+.certification{
+
+    width: 310px;
+
+}
+
+
+.declaration{
+
+    width: 600px;
+
+}
